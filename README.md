@@ -19,10 +19,10 @@ The valuation was conducted as part of a finance academic exercise and includes:
 
 ## Files Included
 
-- `JK_Paper_DCF_Model.xlsx` – Fully dynamic Excel-based DCF model
-- `Peer_Comparison.xlsx` – Comparable company analysis and multiple benchmarking
-- `Industry_Analysis.pdf` – Overview of sector trends, demand-supply dynamics
-- `Valuation_Summary.pdf` – Key insights, final valuation range, and commentary
+- `JK_Paper_Business_valuation.pdf` – Fully dynamic Excel-based DCF model
+-  Comparable company analysis and multiple benchmarking
+-  Overview of sector trends, demand-supply dynamics
+-  Key insights, final valuation range, and commentary
 
 ---
 
