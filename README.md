@@ -3,7 +3,7 @@ Business valuation project for JK Paper Ltd. including detailed industry analysi
 
 ---
 
-## 🧾 Project Overview
+## Project Overview
 
 The valuation was conducted as part of a finance academic exercise and includes:
 
@@ -17,7 +17,7 @@ The valuation was conducted as part of a finance academic exercise and includes:
 
 ---
 
-## 📊 Files Included
+## Files Included
 
 - `JK_Paper_DCF_Model.xlsx` – Fully dynamic Excel-based DCF model
 - `Peer_Comparison.xlsx` – Comparable company analysis and multiple benchmarking
@@ -26,7 +26,7 @@ The valuation was conducted as part of a finance academic exercise and includes:
 
 ---
 
-## 🛠 Tools & Techniques
+## Tools & Techniques
 
 - Microsoft Excel  
 - Financial Modeling: DCF, Relative Valuation  
@@ -35,7 +35,7 @@ The valuation was conducted as part of a finance academic exercise and includes:
 
 ---
 
-## 🔍 Key Learning Outcomes
+## Key Learning Outcomes
 
 - Building a bottom-up DCF model with dynamic assumptions
 - Applying real-world peer benchmarking and market data
@@ -43,5 +43,5 @@ The valuation was conducted as part of a finance academic exercise and includes:
 
 ---
 
-> ⚠️ *Note: This project is for educational purposes only. All data used is publicly available or simulated for academic use.*
+>  *Note: This project is for educational purposes only. All data used is publicly available or simulated for academic use.*
 
